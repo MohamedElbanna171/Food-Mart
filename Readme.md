@@ -36,6 +36,12 @@ Here's a sneak peek at one of the visualizations from the analysis:
 
 ![Tree Map Example](image.png)
 
+![Tree Map Example](image2.png)
+
+![Tree Map Example](image3.png)
+
+![Tree Map Example](image4.png)
+
 ---
 
 Feel free to explore the data and reach out with any questions! 😊
